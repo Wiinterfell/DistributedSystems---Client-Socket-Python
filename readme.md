@@ -6,6 +6,6 @@ This is a python code to open a socket and talk to [this server](https://www.scs
 
 ## Trinity College Project
 
-Course : Distributed Systems
-Author : Sophie Legras
-Student number : 16336670
+Course : Distributed Systems  
+Author : Sophie Legras  
+Student number : 16336670  
